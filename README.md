@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on improving my skills in javascript, react, to learn backend also I am a freelance web developer.
+
+🌱 I’m currently learning - React 
+
+📫 How to reach me: https://www.linkedin.com/in/ameen-shaikh-513815158/
+
