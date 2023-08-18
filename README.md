@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working as a React dev who wants to work in backend
 
-🌱 I’m currently planning to learning - Backend 
+🌱 I’m currently planning to learn - Backend 
 
 📫 How to reach me: https://www.linkedin.com/in/ameen-shaikh-513815158/
 
