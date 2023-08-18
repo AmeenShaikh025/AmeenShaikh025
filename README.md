@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on improving my skills in javascript, react, to learn backend also I am a freelance web developer.
+🔭 I’m currently working as a React dev who wants to work in backend
 
-🌱 I’m currently learning - React 
+🌱 I’m currently planning to learning - Backend 
 
 📫 How to reach me: https://www.linkedin.com/in/ameen-shaikh-513815158/
 
